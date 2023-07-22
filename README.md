@@ -5,7 +5,7 @@ So I decided to make it public here. Because I am the owner or who create this p
 ## How to use/build? 
 Same way with other Private Server Just watch on YT Tutorial 
 - Make sure that Visual Studio Community is installed
-If you're looking for [Core](https://github.com/OZmoon/GT-Private/releases/tag/v0.1.0) Database
+- If you're looking for [Core](https://github.com/OZmoon/GT-Private/releases/tag/v0.1.0) Database
 
 ## Conclusion
 This project not same as the original, i don't care about the issue or bug. i just want to make it public
